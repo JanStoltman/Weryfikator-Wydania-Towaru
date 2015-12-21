@@ -1,0 +1,19 @@
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Debug\Donat Etykiety.csproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Debug\Donat_Etykiety.MainMenu.resources
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Debug\Donat_Etykiety.DokumentyMagazynoweForm.resources
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\EntityFramework.dll
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\EntityFramework.Firebird.dll
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\EntityFramework.xml
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\EntityFramework.Firebird.pdb
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\Etykiety EPL.exe.config
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\Etykiety EPL.exe
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Debug\Etykiety EPL.pdb
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Debug\Etykiety_Epl.AskBox.resources
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Debug\Etykiety_Epl.Properties.Resources.resources
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Debug\Etykiety EPL.exe
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Debug\Etykiety EPL.pdb
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Debug\Donat Etykiety.csprojResolveAssemblyReference.cache

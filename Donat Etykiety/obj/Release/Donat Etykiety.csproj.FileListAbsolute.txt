@@ -1,0 +1,22 @@
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Release\Donat_Etykiety.DokumentyMagazynoweForm.resources
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Release\Donat_Etykiety.MainMenu.resources
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Release\Donat Etykiety.csproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Release\Donat Etykiety.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\EntityFramework.dll
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\EntityFramework.Firebird.dll
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\EntityFramework.xml
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\EntityFramework.Firebird.pdb
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\Etykiety EPL.exe.config
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\Etykiety EPL.exe
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\bin\Release\Etykiety EPL.pdb
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Release\Etykiety_Epl.Properties.Resources.resources
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Release\Etykiety EPL.exe
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Release\Etykiety EPL.pdb
+C:\Users\Jan\Desktop\Donat Etykiety\Donat Etykiety\obj\Release\Etykiety_Epl.AskBox.resources
+C:\Users\Jan\Desktop\Projekty c#\Donat Etykiety\Donat Etykiety\bin\Release\Etykiety EPL.exe.config
+C:\Users\Jan\Desktop\Projekty c#\Donat Etykiety\Donat Etykiety\obj\Release\Etykiety EPL.exe
+C:\Users\Jan\Desktop\Projekty c#\Donat Etykiety\Donat Etykiety\obj\Release\Etykiety EPL.pdb
